@@ -1,1 +1,1 @@
-# nginx-example
+# kubernetes-nginx-example
